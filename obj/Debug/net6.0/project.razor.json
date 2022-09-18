@@ -16313,6 +16313,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\MathOperations\\Sub.cshtml",
+      "TargetPath": "Views\\MathOperations\\Sub.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\MathOperations\\SumOperation.cshtml",
       "TargetPath": "Views\\MathOperations\\SumOperation.cshtml",
       "FileKind": "mvc"
@@ -16350,6 +16355,11 @@
     {
       "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\MathOperations\\SubOperation.cshtml",
+      "TargetPath": "Views\\MathOperations\\SubOperation.cshtml",
       "FileKind": "mvc"
     }
   ],
