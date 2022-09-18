@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "Calculator Operation Result";
+    @model LP3_ASPNET_Refactor.Models.OperationRequest;
+}
+
+<div>
+    <h1>Resultado da @Model.Operator</h1>
+    <p>
+        @if(Model.Operator == "soma")
+        {
+            <p> A soma de @Model.NumberOne + @Model.NumberTwo é igual a @(Model.NumberOne + Model.NumberTwo) </p>
+        }
+        else if(Model.Operator == "subtração")
+        {
+            <p> A subtração de @Model.NumberOne - @Model.NumberTwo é igual a @(Model.NumberOne - Model.NumberTwo) </p>
+        }
+        else if(Model.Operator == "multiplicação")
+        {
+            <p> A multiplicação de @Model.NumberOne x @Model.NumberTwo é igual a @(Model.NumberOne * Model.NumberTwo) </p>
+        }
+        else if(Model.Operator == "divisão")
+        {
+            <p> A divisão de @Model.NumberOne / @Model.NumberTwo é igual a @(Model.NumberOne / Model.NumberTwo) </p>
+        }
+    </p>
+</div>

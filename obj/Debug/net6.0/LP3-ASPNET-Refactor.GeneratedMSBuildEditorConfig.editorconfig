@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Administrador\Documents\Ensino Médio - 3° ano\LP3 3º\Exercícios\LP3-ASPNET-Refactor
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Administrador/Documents/Ensino Médio - 3° ano/LP3 3º/Exercícios/LP3-ASPNET-Refactor/Views/Calculator/CalculatorOperation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRvclxDYWxjdWxhdG9yT3BlcmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrador/Documents/Ensino Médio - 3° ano/LP3 3º/Exercícios/LP3-ASPNET-Refactor/Views/Calculator/CalculatorOperationResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY3VsYXRvclxDYWxjdWxhdG9yT3BlcmF0aW9uUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Administrador/Documents/Ensino Médio - 3° ano/LP3 3º/Exercícios/LP3-ASPNET-Refactor/Views/Formulary/Form.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYXJ5XEZvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

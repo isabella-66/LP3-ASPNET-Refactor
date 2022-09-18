@@ -16368,6 +16368,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\Calculator\\CalculatorOperationResult.cshtml",
+      "TargetPath": "Views\\Calculator\\CalculatorOperationResult.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -16380,6 +16385,11 @@
     {
       "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\MathOperations\\SubOperation.cshtml",
       "TargetPath": "Views\\MathOperations\\SubOperation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\Calculator\\CalculatorOperation.cshtml",
+      "TargetPath": "Views\\Calculator\\CalculatorOperation.cshtml",
       "FileKind": "mvc"
     }
   ],
