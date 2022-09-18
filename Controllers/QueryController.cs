@@ -2,7 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using LP3_ASPNET_Refactor.Models;
 
-namespace EstudoASPNET.Controllers;
+namespace LP3_ASPNET_Refactor.Controllers;
 
 public class QueryController : Controller
 {

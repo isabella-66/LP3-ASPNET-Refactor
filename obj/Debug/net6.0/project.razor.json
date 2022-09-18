@@ -16303,8 +16303,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\MathOperations\\Sum.cshtml",
+      "TargetPath": "Views\\MathOperations\\Sum.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\MathOperations\\SumOperation.cshtml",
+      "TargetPath": "Views\\MathOperations\\SumOperation.cshtml",
       "FileKind": "mvc"
     },
     {
