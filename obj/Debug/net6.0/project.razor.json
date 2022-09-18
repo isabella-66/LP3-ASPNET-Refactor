@@ -16318,6 +16318,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\Formulary\\Form.cshtml",
+      "TargetPath": "Views\\Formulary\\Form.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Administrador\\Documents\\Ensino Médio - 3° ano\\LP3 3º\\Exercícios\\LP3-ASPNET-Refactor\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
